@@ -13,5 +13,23 @@ for( i=0 ; i<A.length && rangeNumbers.size() > 0 ; i++ ) {
 
 ## 풀이
 ```java
-
+public static int solution(int num, int[] numberArray) {
+	Set<Integer> numSet = new HashSet<>();
+	for (int i = 1; i <= num; i++) 
+		numSet.add( i );
+	
+	int idx = 0;
+	while ( idx < numberArray.length ) {
+		numSet.remove( numberArray[idx] );
+		if( numSet.size() == 0 )
+			break;
+		idx++;
+	}
+	return idx;
+}
 ```
+
+## 채점 결과
+| Task Score | Correctness | Performance | 
+| ------------ | ------------- | ------------- |
+| 72% | 50% | 100% |
