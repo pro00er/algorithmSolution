@@ -1,5 +1,5 @@
 ## 문제
-  - [Codility](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)]
+  - [Codility](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)
   
 ## 접근
  1. 임시 배열을 만든다.
