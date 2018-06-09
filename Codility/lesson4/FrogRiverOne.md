@@ -51,3 +51,19 @@
 		return lastIndex;
 	}
   ~~~
+
+## 결과
+| Task Score | Correctness | Performance | 
+| ------------ | ------------- | ------------- |
+| 63% | 50% | 80% |
+
+ 1. Correctness 결과
+ 
+ | TestCase |  Result | 
+| ------------ |------------ |
+| simple | Ok |
+| single | -1 |
+| extreme_frog | No |
+| small_random1 | Ok |
+| small_random2 | Ok |
+| extreme_leaves | No |
