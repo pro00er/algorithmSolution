@@ -53,16 +53,14 @@ public int solution(int[] ints) {
 	int listSize = intList.size();
 	for (int idx = 1; idx < listSize; idx++) {
 		if( intList.get(idx-1) + 1 != intList.get(idx) ) {
-			return getReturnNum( intList.get(idx-1) );
+			return getReturn( intList.get(idx-1) );
 		}
 	}
 	
 	return maxnum + 1;
 }
 
-public int getReturnNum(int startnum) {
-	if( startnum < 1 )
-		return 1;
+public int getReturn(int startnum) {
 	return startnum + 1;
 }
 ```
