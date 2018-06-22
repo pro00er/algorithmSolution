@@ -8,7 +8,7 @@
 
 ## code 이름
 - 문제를 찾을 수 있는 이름을 스네이크 표기로 명명후 코드 작성자의 이름 추가
-  - ex) codility/lesson5_PassingCars_ksno.java
+  - ex) codility/prefixsums_PassingCars_ksno.java
 
 ## code 파일 내부 구조
 - 문제풀이 메인 소스코드의 메서드명은 *solution*으로 통일
