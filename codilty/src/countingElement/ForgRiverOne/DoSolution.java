@@ -1,4 +1,4 @@
-package countingElement.MissingInteger;
+package countingElement.ForgRiverOne;
 
 public class DoSolution {
 
@@ -7,6 +7,6 @@ public class DoSolution {
   public static void main(String[] args){
     Solution sol = new Solution();
     //Only for run solution - DUMMY_VALUE doesn't affect anything
-    int result = sol.solution(DUMMY_VALUE);
+//    int result = sol.solution(DUMMY_VALUE);
   }
 }
