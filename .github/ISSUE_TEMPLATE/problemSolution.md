@@ -9,7 +9,7 @@ about: 문제 풀이를 위한 issue
 - 링크
 
 ### 작업한 거
-- issue title 형식에 맞는가? (문제플랫폼명_문제카테고리명_문제이름 / e.g. codility_Lesson06_sorting_heyheyhey)
+- [ ] issue title 형식에 맞는가? (문제플랫폼명_문제카테고리명_문제이름 / e.g. codility_Lesson06_sorting_heyheyhey)
 - [ ] 풀이 PR
 - [ ] hojinjava꺼 코드리뷰
 - [ ] ohahohah꺼 코드리뷰
