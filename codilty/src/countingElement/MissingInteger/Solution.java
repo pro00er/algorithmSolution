@@ -1,4 +1,4 @@
-package codility;
+package countingElement.MissingInteger;
 
 class Solution {
 
