@@ -3,3 +3,4 @@ Codility, HackerRank 등 코딩테스트 플랫폼에서 알고리즘 풀이 수
 
 ## Log
 - 2018/06/09 Lesson03,04 풀이
+- 2018/07/14 Lesson06 풀이
