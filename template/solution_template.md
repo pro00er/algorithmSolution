@@ -4,7 +4,7 @@
   - 영문명이 없을 경우 한글 사용
 
 ## Solution 설명 양식
-- 참고파일: algorithmSolution/template/solution.md
+- [참고파일 algorithmSolution/template/solution.md](algorithmSolution/template/solution.md)
 
 ## Solution code 양식
 - 문제를 찾을 수 있는 이름을 스네이크 표기로 명명후 코드 작성자의 이름 추가
